@@ -18,3 +18,5 @@
 - Flutter framework with MVC and Provider architecture
 
 ## Project Output :
+
+https://github.com/Darshankumar09/Media_Player_Flutter_App/assets/116517559/393b5d19-35cf-40f8-8b78-00c60a036af8
